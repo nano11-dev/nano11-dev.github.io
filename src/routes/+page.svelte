@@ -1,6 +1,7 @@
 <script>
   import Nano11Description from './Nano11Description.svelte';
-
+  export const prerender = true;
+  export const handleHtppError = 'warn';
   import Nano11Header from './Nano11Header.svelte';
 
 	import {Button, TextBlock} from "fluent-svelte"
