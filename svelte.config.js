@@ -14,7 +14,7 @@ const config = {
 		adapter: adapter(),
 		prerender: {
             handleHttpError: ({ path, referrer, message }) => {
-                console.log("A path was not found :/ " + path)
+                console.log("A path was not found :/ " + path + "\n message: " + message + "\nreferrer: "+referrer)
             }
         }
 
