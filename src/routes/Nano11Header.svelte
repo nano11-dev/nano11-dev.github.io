@@ -10,7 +10,7 @@
 			Nano11
 		</TextBlock>
 		<TextBlock variant="subtitle">
-			The best superlite mod
+			The best Windows 11 superlite build
 		</TextBlock>
 		<br>
 		<div style="display:inline"> 
