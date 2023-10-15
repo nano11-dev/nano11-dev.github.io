@@ -14,7 +14,7 @@
 		</TextBlock>
 		<br>
 		<div style="display:inline"> 
-			<Button variant="accent" href="https://archive.org/details/nano11-v4-open-beta">Get Nano11</Button> <Button href="#descriptions">See more</Button>
+			<Button variant="accent" href="https://archive.org/details/nano11-23h2-v1-rp">Get Nano11 (23H2)</Button> <Button href="#descriptions">See more</Button>
 		</div>
 	</div>
 </section>
