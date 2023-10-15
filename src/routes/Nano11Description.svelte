@@ -39,7 +39,7 @@
 	<br />
 	<div id="buttons">
 		<Button variant="accent" href="https://archive.org/details/nano11-23h2-v1-rp">Latest build (23H2 V1 RP)</Button>
-		<Button variant="accent" href="https://archive.org/details/nano11-v4-rtm">Latest stable build (V4)</Button>
+		<Button variant="accent" href="https://archive.org/details/nano11-22h2-v4-rtm">Latest stable build (V4)</Button>
 		<Button variant="accent" href="https://mega.nz/folder/8StwhBAQ#_ZBA8U-t5tf_XYna_C-2LA">Get Nano11 Extras</Button>
 		<Button variant="accent" href="https://github.com/XPower7125/nano11-post-setup">Post-Setup Repo</Button>
 		<Button variant="accent" href="https://discord.gg/u6tHeZJe">More in our Discord</Button>
