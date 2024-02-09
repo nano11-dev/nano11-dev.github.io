@@ -32,7 +32,7 @@
 		width: 100%;
 		text-align: center;
 		background-size: cover;
-		background-image: url("https://static.wixstatic.com/media/e0c5a3_2e5f17970de4417aaf7dbc1ca802a8a9~mv2.png/v1/fill/w_1850,h_891,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/e0c5a3_2e5f17970de4417aaf7dbc1ca802a8a9~mv2.png");
+		background-image: url("https://xpower7125.signed.host/BIkoa.jpg");
 	}
 	
 
