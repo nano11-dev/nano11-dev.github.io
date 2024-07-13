@@ -28,7 +28,7 @@
 						{@html Box}
 					</div>
 					</svelte:fragment>
-						<TextBlock variant="body">Nano11 only takes up 10GB of disk space, so you will have more space for what you really need.</TextBlock>
+						<TextBlock variant="body">Nano11 only takes up 7.5/8GB of disk space, so you will have more space for what you really need.</TextBlock>
 			</Card>
 			<Card class="w-80">
 				<svelte:fragment slot="header" >
