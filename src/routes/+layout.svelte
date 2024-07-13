@@ -1,21 +1,26 @@
 <script>
       import {Button, TextBlock} from "fluent-svelte"
       import "fluent-svelte/theme.css";
+      import "./styles.css"
   </script>
 
-<nav>
-	<Button href="/" variant="hyperlink">Home</Button>
-	<Button href="/blog" variant="hyperlink">Blog</Button>
-	<Button href="https://drive.google.com/file/d/1rzUBwvj9qNr07MjzF8z1F6oJLOCn8UGF/view?usp=drive_link" variant="hyperlink">Download latest version</Button>
-</nav>
+<iframe src="/FirstLogonAnim.html" title="First Logon Animation" />
 
-<slot />
+<div>
+    <slot />
+</div>
 
 <style>
-    nav {
-        position: fixed;
-        z-index: 99;
-        background: none;
-        
+    iframe {
+        position: absolute;
+        left:0;
+        top:0;
+        width: 100vw;
+        height: 100vh;
     }
+    :global(body) {
+        overflow-x: hidden;
+    }
+
 </style>
+
