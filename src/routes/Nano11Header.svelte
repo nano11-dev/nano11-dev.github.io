@@ -45,7 +45,7 @@
 			<Button variant="accent" href="https://archive.org/details/nano11-24h2-copilot">Download Nano11 24H2 Copilot Edition</Button>
 			<Button variant="standard" href="https://mega.nz/folder/8StwhBAQ#_ZBA8U-t5tf_XYna_C-2LA">Get Nano11 Extras</Button>
 			<Button variant="standard" href="https://github.com/nano11-dev/Nano11Toolkit">Toolkit Repo</Button>
-			<Button variant="standard" href="https://github.com/nano11-dev/nano11-post-setup">Post-Setup Repo</Button>
+			<Button variant="standard" href="https://github.com/nano11-dev/post-setup">Post-Setup Repo</Button>
 			<Button variant="standard" href="https://discord.gg/u6tHeZJe">More in our Discord</Button>
 		</div>
 	</div>
