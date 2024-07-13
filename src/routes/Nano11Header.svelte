@@ -3,6 +3,7 @@
 	import { Button, IconButton, TextBlock } from 'fluent-svelte';
 	import TopSpeed from "@fluentui/svg-icons/icons/top_speed_20_regular.svg?raw";
 	import Box from "@fluentui/svg-icons/icons/box_20_regular.svg?raw";
+	import User from "@fluentui/svg-icons/icons/user_20_regular.svg?raw";
 	import 'fluent-svelte/theme.css';
 </script>
 
@@ -33,7 +34,7 @@
 				<svelte:fragment slot="header" >
 					<div class="flex gap-2 fill-white justify-between">
 						<TextBlock variant="subtitle" class="">Better user experience</TextBlock>
-						{@html TopSpeed}
+						{@html User}
 					</div>
 					</svelte:fragment>
 						<TextBlock variant="body">Nano11 has a few minor tweaks that make the UX better.</TextBlock>
