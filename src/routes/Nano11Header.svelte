@@ -3,7 +3,7 @@
 	import { Button, IconButton, TextBlock } from 'fluent-svelte';
 	import TopSpeed from "@fluentui/svg-icons/icons/top_speed_20_regular.svg?raw";
 	import Box from "@fluentui/svg-icons/icons/box_20_regular.svg?raw";
-	import User from "@fluentui/svg-icons/icons/user_20_regular.svg?raw";
+	import User from "@fluentui/svg-icons/icons/person_20_regular.svg?raw";
 	import 'fluent-svelte/theme.css';
 </script>
 
