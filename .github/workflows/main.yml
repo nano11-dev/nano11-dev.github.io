@@ -25,11 +25,12 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/configure-pages@v1
         id: pages
+      - uses: pnpm/action-setup@v4.0.0
       - uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 20
           cache: 'pnpm'
-      - uses: pnpm/action-setup@v4.0.0
+
       - run: pnpm install --forzen-lockfile
       - run: pnpm run build
       - name: Upload artifact
