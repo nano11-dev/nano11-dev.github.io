@@ -26,6 +26,8 @@ jobs:
       - uses: actions/configure-pages@v1
         id: pages
       - uses: pnpm/action-setup@v4.0.0
+        with:
+          version: 9
       - uses: actions/setup-node@v3
         with:
           node-version: 20
