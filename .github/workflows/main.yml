@@ -33,7 +33,7 @@ jobs:
           node-version: 20
           cache: 'pnpm'
 
-      - run: pnpm install --forzen-lockfile
+      - run: pnpm install --frozen-lockfile
       - run: pnpm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
