@@ -6,7 +6,11 @@
 
 <svelte:head>
 	<title>Nano11</title>
-	<meta name="description" content="Nano11: the best windows 11 superlite" />
+    	<meta content="Nano11" property="og:title" />
+    	<meta content="The best Windows 11 superlite" property="og:description" />
+    	<meta content="https://nano11-dev.github.io" property="og:url" />
+    	<meta content="https://raw.githubusercontent.com/nano11-dev/nano11-dev.github.io/refs/heads/main/static/favicon.png" property="og:image" />
+    	<meta content="#0E86D4" data-react-helmet="true" name="theme-color" />
 </svelte:head>
 <section>
 		<Nano11Header/>
